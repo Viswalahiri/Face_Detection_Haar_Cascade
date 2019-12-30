@@ -2,6 +2,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+## Description
+
 Face detection performed with the help of the Haar Cascade Frontal Face Model.
 
 Implemented with [OpenCV](https://pypi.org/project/opencv-python/) (Python 3) in Python, this repository contains code that enables the use of Computer Vision algorithms and facilities. These faces can be further used as inputs to a facial recognition model.
@@ -10,8 +12,7 @@ Implemented with [OpenCV](https://pypi.org/project/opencv-python/) (Python 3) in
 
 The Haar-Cascade algorithm is a machine learning object detection algorithm, that can be used to identify specific objects based upon the features that are found in an image or many images played together (i.e., video).
 
-
-## Prerequisites
+## Prerequisites and Installation
 
 This package assumes you use Python 3.x.
 
