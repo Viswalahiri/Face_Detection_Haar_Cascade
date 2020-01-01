@@ -2,13 +2,15 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+## For further technical details click [here](https://viswalahiri.github.io/Face_Detection_Haar_Cascade/scripts/)
+
 ## Description
 
 Face detection performed with the help of the Haar Cascade Frontal Face Model.
 
 Implemented with [OpenCV](https://pypi.org/project/opencv-python/) (Python 3) in Python, this repository contains code that enables the use of Computer Vision algorithms and facilities. These faces can be further used as inputs to a facial recognition model.
 
-For further technical details click [here](https://viswalahiri.github.io/Face_Detection_Haar_Cascade/scripts/)
+# For further technical details click [here](https://viswalahiri.github.io/Face_Detection_Haar_Cascade/scripts/)
 
 ## About Haar-Cascade
 
