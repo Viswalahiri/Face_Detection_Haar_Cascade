@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Use a folder with one/multiple photo(s) with one or more faces, as an input for the algorithm.
 
 
-<img align="center" src="/assets/family.jpg">
+<p align = "center" ><img src="assets/family.jpg"> </p>
 
 
 
@@ -49,7 +49,7 @@ C:\SPECIFY_PATH_TO_PUSH
 
 Photos corresponding to individual faces get pushed to the folder specified in path
 
-<img align="center" src="assets/detected_faces.gif">
+<p align = "center" ><img src="assets/detected_faces.gif"> </p>
 
 
 
