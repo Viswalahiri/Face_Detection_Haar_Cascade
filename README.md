@@ -25,12 +25,30 @@ pip install -r requirements.txt
 
 ## Examples
 
+### Input
+
+Use a folder with one/multiple photo(s) with one or more faces, as an input for the algorithm.
+
+![](https://github.com/Viswalahiri/Face_Detection_Haar_Cascade/blob/master/assets/family.jpg)
+
+
+### Execution
+
+Run ```main.py```.
+
+
 ```
 > Enter Path Where Images Exists.
 C:\SPECIFY_PATH_OF_EXISTANCE
 > Enter Path Where You Would Like to Push.
 C:\SPECIFY_PATH_TO_PUSH
 ```
+### Output
+
+Photos corresponding to individual faces get pushed to the folder specified in path
+
+![](https://github.com/Viswalahiri/Face_Detection_Haar_Cascade/blob/master/assets/detected_faces.gif)
+
 
 ## Contributing
 
